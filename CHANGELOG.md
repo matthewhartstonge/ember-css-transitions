@@ -1,8 +1,8 @@
 
+## v4.4.1 (2024-09-05)
 
-
-
-
+#### :bug: Bug Fix
+- Fixes util functions not being exported
 
 ## v4.4.0 (2023-08-10)
 
