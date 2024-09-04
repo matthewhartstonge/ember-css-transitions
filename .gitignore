@@ -11,6 +11,8 @@ declarations/
 node_modules/
 
 # misc
+/.DS_Store
+/.idea
 /.env*
 /.pnp*
 /.pnpm-debug.log
