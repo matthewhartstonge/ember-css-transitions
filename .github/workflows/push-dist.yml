@@ -30,7 +30,7 @@ jobs:
       - name: Install Dependencies
         run: pnpm install
 
-      - uses: kategengler/put-built-npm-package-contents-on-branch@v1.0.0
+      - uses: kategengler/put-built-npm-package-contents-on-branch@v2.0.0
         with:
           branch: dist
           token: ${{ secrets.GITHUB_TOKEN }}
