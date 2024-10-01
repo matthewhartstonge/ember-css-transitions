@@ -1,4 +1,9 @@
 
+## v4.4.2 (2024-10-01)
+
+#### :bug: Bug Fix
+- Upgrades to `pnpm@9` due to pnpm pre-pack failure.
+
 ## v4.4.1 (2024-09-05)
 
 #### :bug: Bug Fix
